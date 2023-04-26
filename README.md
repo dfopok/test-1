@@ -73,4 +73,5 @@ class a{
 >인용글1
 
 이미지
-![텍스트](이미지링크주소)
+![텍스트](![군침이싸악](https://user-images.githubusercontent.com/130714943/234462637-b23ca1ed-2d66-477f-b7d2-989b0853e9bd.png)
+)
